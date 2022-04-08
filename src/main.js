@@ -48,6 +48,10 @@ let str=`
     background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 100%);
     border-radius:50%;
 }
+/* 
+** O的K，终于写完啦~ 
+** 谨以此文献给当下的你~
+**/
 `
 let str0=''
 // console.log('str长度：',str.length)
