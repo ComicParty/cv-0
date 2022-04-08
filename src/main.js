@@ -63,7 +63,7 @@ let step =()=>{
         }else {
             str0+=str[n]
         }
-        style.innerHTML =str.substr(0,n)
+        style.innerHTML =str.substring(0,n)
         html.innerHTML = str0
         window.scrollTo(0,99999)
         html.scrollTo(0,99999)
@@ -71,7 +71,7 @@ let step =()=>{
         if(n<str.length){
             step()
         }
-    },40)
+    },20)
 }
 //推翻正则重新写，用string2
 // let step = ()=>{
