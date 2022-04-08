@@ -3,7 +3,7 @@ let style = document.querySelector('#style')
 let str=`
 /*我是一枚前端新人
 * 来自江苏徐州
-* 据说成为程序员会秃头，挺不可思议的，我想试试:P
+* 据说成为程序员会秃头，真不可思议！我想试试:P
 * 接下来，来演示一下前端功底
 * 首先我要准备一个div
 **/
@@ -21,7 +21,7 @@ let str=`
     box-shadow:0 0 3px rgba(0,0,0,0.5);
     border:none;
 }
-/*太极有阴阳两鱼
+/*给圆整两条鱼
 **一白一黑
 **/
 #div1{
